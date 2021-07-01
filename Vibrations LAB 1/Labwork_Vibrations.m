@@ -1,6 +1,6 @@
 % STUDENT DETAILS
 %{
-                ENM221-0055/2017
+               
                 Gladys Wanjeri Gachoka                
                 B.Sc. Mechatronic Engineering 
                 EMT 2436 : Vibrations
